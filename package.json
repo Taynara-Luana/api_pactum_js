@@ -1,0 +1,24 @@
+{
+  "name": "taynara_pactum",
+  "version": "1.0.0",
+  "description": "Este projeto é apenas para estudos do framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taynara-Luana/api_pactum_js.git"
+  },
+  "author": "Taynara Luana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taynara-Luana/api_pactum_js/issues"
+  },
+  "homepage": "https://github.com/Taynara-Luana/api_pactum_js#readme",
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "pactum": "^3.3.3"
+  }
+}
